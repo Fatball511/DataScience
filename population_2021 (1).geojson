@@ -1,0 +1,4261 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "iso_code":"CHN",
+    "country":"China",
+    "2021_population":1447065329,
+    "2020_population":1439323776,
+    "area_km_sq":9706961,
+    "density_km_sq":149,
+    "growth_rate_%":0.34,
+    "world_%":18.34,
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6677428,22.3511148 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "iso_code":"IND",
+    "country":"India",
+    "2021_population":1401310563,
+    "2020_population":1380004385,
+    "area_km_sq":3287590,
+    "density_km_sq":424,
+    "growth_rate_%":0.97,
+    "world_%":17.69,
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.445882,39.7837304 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "iso_code":"USA",
+    "country":"United States",
+    "2021_population":334058426,
+    "2020_population":331002651,
+    "area_km_sq":9372610,
+    "density_km_sq":36,
+    "growth_rate_%":0.58,
+    "world_%":4.23,
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.8902853,-2.4833826 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "iso_code":"IDN",
+    "country":"Indonesia",
+    "2021_population":278037263,
+    "2020_population":273523615,
+    "area_km_sq":1904569,
+    "density_km_sq":145,
+    "growth_rate_%":1.04,
+    "world_%":3.51,
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.247499,30.3308401 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "iso_code":"PAK",
+    "country":"Pakistan",
+    "2021_population":227724796,
+    "2020_population":220892340,
+    "area_km_sq":881912,
+    "density_km_sq":255,
+    "growth_rate_%":1.95,
+    "world_%":2.86,
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.2,-10.3333333 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "iso_code":"BRA",
+    "country":"Brazil",
+    "2021_population":214832901,
+    "2020_population":212559417,
+    "area_km_sq":8515767,
+    "density_km_sq":25,
+    "growth_rate_%":0.67,
+    "world_%":2.72,
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.9999721,9.6000359 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "iso_code":"NGA",
+    "country":"Nigeria",
+    "2021_population":214507696,
+    "2020_population":206139589,
+    "area_km_sq":923768,
+    "density_km_sq":229,
+    "growth_rate_%":2.55,
+    "world_%":2.68,
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.2934413,24.4769288 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "iso_code":"BGD",
+    "country":"Bangladesh",
+    "2021_population":167247491,
+    "2020_population":164689383,
+    "area_km_sq":147570,
+    "density_km_sq":1,
+    "growth_rate_%":0.98,
+    "world_%":2.11,
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.7453061,64.6863136 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "iso_code":"RUS",
+    "country":"Russia",
+    "2021_population":145899956,
+    "2020_population":145934462,
+    "area_km_sq":17098242,
+    "density_km_sq":9,
+    "growth_rate_%":-0.02,
+    "world_%":1.85,
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.0077097,23.6585116 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "iso_code":"MEX",
+    "country":"Mexico",
+    "2021_population":131046075,
+    "2020_population":128932753,
+    "area_km_sq":1964375,
+    "density_km_sq":66,
+    "growth_rate_%":1.03,
+    "world_%":1.65,
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.2394179,36.5748441 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "iso_code":"JPN",
+    "country":"Japan",
+    "2021_population":125802521,
+    "2020_population":126476461,
+    "area_km_sq":377930,
+    "density_km_sq":334,
+    "growth_rate_%":-0.34,
+    "world_%":1.6,
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.6521203,10.2116702 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "iso_code":"ETH",
+    "country":"Ethiopia",
+    "2021_population":119590501,
+    "2020_population":114963588,
+    "area_km_sq":1104300,
+    "density_km_sq":107,
+    "growth_rate_%":2.53,
+    "world_%":1.5,
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7312101,12.7503486 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "iso_code":"PHL",
+    "country":"Philippines",
+    "2021_population":111913102,
+    "2020_population":109581078,
+    "area_km_sq":342353,
+    "density_km_sq":324,
+    "growth_rate_%":1.34,
+    "world_%":1.41,
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.2675469,26.2540493 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "iso_code":"EGY",
+    "country":"Egypt",
+    "2021_population":105390688,
+    "2020_population":102334404,
+    "area_km_sq":1002450,
+    "density_km_sq":104,
+    "growth_rate_%":1.88,
+    "world_%":1.32,
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.9650855,15.9266657 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "iso_code":"VNM",
+    "country":"Vietnam",
+    "2021_population":98655916,
+    "2020_population":97338579,
+    "area_km_sq":331212,
+    "density_km_sq":296,
+    "growth_rate_%":0.85,
+    "world_%":1.25,
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9249653,38.9597594 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "iso_code":"TUR",
+    "country":"Turkey",
+    "2021_population":85484777,
+    "2020_population":84339067,
+    "area_km_sq":783562,
+    "density_km_sq":109,
+    "growth_rate_%":0.83,
+    "world_%":1.08,
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.5643516,32.6475314 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "iso_code":"IRN",
+    "country":"Iran",
+    "2021_population":85627052,
+    "2020_population":83992949,
+    "area_km_sq":1648195,
+    "density_km_sq":52,
+    "growth_rate_%":1.23,
+    "world_%":1.08,
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.4478313,51.1638175 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "iso_code":"DEU",
+    "country":"Germany",
+    "2021_population":83975691,
+    "2020_population":83783942,
+    "area_km_sq":357114,
+    "density_km_sq":235,
+    "growth_rate_%":0.14,
+    "world_%":1.07,
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.83273,14.8971921 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "iso_code":"THA",
+    "country":"Thailand",
+    "2021_population":70039646,
+    "2020_population":69799978,
+    "area_km_sq":513120,
+    "density_km_sq":136,
+    "growth_rate_%":0.22,
+    "world_%":0.89,
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.2765753,54.7023545 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "iso_code":"GBR",
+    "country":"United Kingdom",
+    "2021_population":68401087,
+    "2020_population":67886011,
+    "area_km_sq":242900,
+    "density_km_sq":281,
+    "growth_rate_%":0.47,
+    "world_%":0.87,
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.8883335,46.603354 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "iso_code":"FRA",
+    "country":"France",
+    "2021_population":65520147,
+    "2020_population":65273511,
+    "area_km_sq":551695,
+    "density_km_sq":119,
+    "growth_rate_%":0.23,
+    "world_%":0.83,
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.7878438,-6.5247123 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "iso_code":"TZA",
+    "country":"Tanzania",
+    "2021_population":62539416,
+    "2020_population":59734218,
+    "area_km_sq":945087,
+    "density_km_sq":65,
+    "growth_rate_%":2.95,
+    "world_%":0.78,
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.674297,42.6384261 ]
+    },
+    "properties": {
+    "FIELD1":22,
+    "iso_code":"ITA",
+    "country":"Italy",
+    "2021_population":60320493,
+    "2020_population":60461826,
+    "area_km_sq":301336,
+    "density_km_sq":200,
+    "growth_rate_%":-0.16,
+    "world_%":0.77,
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.991639,-28.8166236 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "iso_code":"ZAF",
+    "country":"South Africa",
+    "2021_population":60474550,
+    "2020_population":59308690,
+    "area_km_sq":1221037,
+    "density_km_sq":49,
+    "growth_rate_%":1.24,
+    "world_%":0.76,
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.4313975,1.4419683 ]
+    },
+    "properties": {
+    "FIELD1":24,
+    "iso_code":"KEN",
+    "country":"Kenya",
+    "2021_population":55703607,
+    "2020_population":53771296,
+    "area_km_sq":580367,
+    "density_km_sq":95,
+    "growth_rate_%":2.26,
+    "world_%":0.7,
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.9999652,17.1750495 ]
+    },
+    "properties": {
+    "FIELD1":25,
+    "iso_code":"MMR",
+    "country":"Myanmar",
+    "2021_population":55037700,
+    "2020_population":54409800,
+    "area_km_sq":676578,
+    "density_km_sq":81,
+    "growth_rate_%":0.73,
+    "world_%":0.7,
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.6961188,36.638392 ]
+    },
+    "properties": {
+    "FIELD1":26,
+    "iso_code":"KOR",
+    "country":"South Korea",
+    "2021_population":51331264,
+    "2020_population":51269185,
+    "area_km_sq":100210,
+    "density_km_sq":512,
+    "growth_rate_%":0.07,
+    "world_%":0.65,
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9088133,4.099917 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "iso_code":"COL",
+    "country":"Colombia",
+    "2021_population":51504213,
+    "2020_population":50882891,
+    "area_km_sq":1141748,
+    "density_km_sq":45,
+    "growth_rate_%":0.75,
+    "world_%":0.65,
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.2166578,1.5333554 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "iso_code":"UGA",
+    "country":"Uganda",
+    "2021_population":47942521,
+    "2020_population":45741007,
+    "area_km_sq":241550,
+    "density_km_sq":195,
+    "growth_rate_%":3.02,
+    "world_%":0.6,
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.8379791,39.3260685 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "iso_code":"ESP",
+    "country":"Spain",
+    "2021_population":46736811,
+    "2020_population":46754778,
+    "area_km_sq":505992,
+    "density_km_sq":92,
+    "growth_rate_%":-0.02,
+    "world_%":0.59,
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9672817,-34.9964963 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "iso_code":"ARG",
+    "country":"Argentina",
+    "2021_population":45847428,
+    "2020_population":45195774,
+    "area_km_sq":2780400,
+    "density_km_sq":16,
+    "growth_rate_%":0.91,
+    "world_%":0.58,
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.4917691,14.5844444 ]
+    },
+    "properties": {
+    "FIELD1":31,
+    "iso_code":"SDN",
+    "country":"Sudan",
+    "2021_population":45532863,
+    "2020_population":43849260,
+    "area_km_sq":1886068,
+    "density_km_sq":24,
+    "growth_rate_%":2.42,
+    "world_%":0.57,
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.9999825,28.0000272 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "iso_code":"DZA",
+    "country":"Algeria",
+    "2021_population":45061896,
+    "2020_population":43851044,
+    "area_km_sq":2381741,
+    "density_km_sq":19,
+    "growth_rate_%":1.75,
+    "world_%":0.57,
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.2718321,49.4871968 ]
+    },
+    "properties": {
+    "FIELD1":33,
+    "iso_code":"UKR",
+    "country":"Ukraine",
+    "2021_population":43312073,
+    "2020_population":43733762,
+    "area_km_sq":603500,
+    "density_km_sq":72,
+    "growth_rate_%":-0.61,
+    "world_%":0.55,
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1749775,33.0955793 ]
+    },
+    "properties": {
+    "FIELD1":34,
+    "iso_code":"IRQ",
+    "country":"Iraq",
+    "2021_population":41750703,
+    "2020_population":40222493,
+    "area_km_sq":438317,
+    "density_km_sq":94,
+    "growth_rate_%":2.38,
+    "world_%":0.52,
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.2385139,33.7680065 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "iso_code":"AFG",
+    "country":"Afghanistan",
+    "2021_population":40374668,
+    "2020_population":38928346,
+    "area_km_sq":652230,
+    "density_km_sq":61,
+    "growth_rate_%":2.33,
+    "world_%":0.51,
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.991707,61.0666922 ]
+    },
+    "properties": {
+    "FIELD1":36,
+    "iso_code":"CAN",
+    "country":"Canada",
+    "2021_population":38261228,
+    "2020_population":37742154,
+    "area_km_sq":9984670,
+    "density_km_sq":4,
+    "growth_rate_%":0.86,
+    "world_%":0.48,
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.134422,52.215933 ]
+    },
+    "properties": {
+    "FIELD1":37,
+    "iso_code":"POL",
+    "country":"Poland",
+    "2021_population":37764461,
+    "2020_population":37846611,
+    "area_km_sq":312679,
+    "density_km_sq":121,
+    "growth_rate_%":-0.13,
+    "world_%":0.48,
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.3362482,31.1728205 ]
+    },
+    "properties": {
+    "FIELD1":38,
+    "iso_code":"MAR",
+    "country":"Morocco",
+    "2021_population":37599544,
+    "2020_population":36910560,
+    "area_km_sq":446550,
+    "density_km_sq":84,
+    "growth_rate_%":1.18,
+    "world_%":0.47,
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.3528328,25.6242618 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "iso_code":"SAU",
+    "country":"Saudi Arabia",
+    "2021_population":35659227,
+    "2020_population":34813871,
+    "area_km_sq":2149690,
+    "density_km_sq":16,
+    "growth_rate_%":1.51,
+    "world_%":0.45,
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 63.9528098,41.32373 ]
+    },
+    "properties": {
+    "FIELD1":40,
+    "iso_code":"UZB",
+    "country":"Uzbekistan",
+    "2021_population":34207969,
+    "2020_population":33469203,
+    "area_km_sq":447400,
+    "density_km_sq":76,
+    "growth_rate_%":1.39,
+    "world_%":0.43,
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5691241,-11.8775768 ]
+    },
+    "properties": {
+    "FIELD1":41,
+    "iso_code":"AGO",
+    "country":"Angola",
+    "2021_population":34566172,
+    "2020_population":32866272,
+    "area_km_sq":1246700,
+    "density_km_sq":27,
+    "growth_rate_%":3.25,
+    "world_%":0.43,
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0458515,-6.8699697 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "iso_code":"PER",
+    "country":"Peru",
+    "2021_population":33587011,
+    "2020_population":32971854,
+    "area_km_sq":1285216,
+    "density_km_sq":26,
+    "growth_rate_%":1.18,
+    "world_%":0.42,
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2656823,4.5693754 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "iso_code":"MYS",
+    "country":"Malaysia",
+    "2021_population":33015425,
+    "2020_population":32365999,
+    "area_km_sq":330803,
+    "density_km_sq":99,
+    "growth_rate_%":1.27,
+    "world_%":0.42,
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9144977,-19.302233 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "iso_code":"MOZ",
+    "country":"Mozambique",
+    "2021_population":32696683,
+    "2020_population":31255435,
+    "area_km_sq":801590,
+    "density_km_sq":40,
+    "growth_rate_%":2.9,
+    "world_%":0.41,
+    "rank":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.0800271,8.0300284 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "iso_code":"GHA",
+    "country":"Ghana",
+    "2021_population":32120718,
+    "2020_population":31072940,
+    "area_km_sq":238533,
+    "density_km_sq":133,
+    "growth_rate_%":2.12,
+    "world_%":0.4,
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.8915271,16.3471243 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "iso_code":"YEM",
+    "country":"Yemen",
+    "2021_population":30882462,
+    "2020_population":29825964,
+    "area_km_sq":527968,
+    "density_km_sq":58,
+    "growth_rate_%":2.23,
+    "world_%":0.39,
+    "rank":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.0917139,28.1083929 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "iso_code":"NPL",
+    "country":"Nepal",
+    "2021_population":29960704,
+    "2020_population":29136808,
+    "area_km_sq":147181,
+    "density_km_sq":202,
+    "growth_rate_%":1.85,
+    "world_%":0.38,
+    "rank":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.1109318,8.0018709 ]
+    },
+    "properties": {
+    "FIELD1":48,
+    "iso_code":"VEN",
+    "country":"Venezuela",
+    "2021_population":28842889,
+    "2020_population":28435940,
+    "area_km_sq":916445,
+    "density_km_sq":31,
+    "growth_rate_%":0.95,
+    "world_%":0.36,
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.4416422,-18.9249604 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "iso_code":"MDG",
+    "country":"Madagascar",
+    "2021_population":28860961,
+    "2020_population":27691018,
+    "area_km_sq":587041,
+    "density_km_sq":48,
+    "growth_rate_%":2.66,
+    "world_%":0.36,
+    "rank":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.1535811,4.6125522 ]
+    },
+    "properties": {
+    "FIELD1":50,
+    "iso_code":"CMR",
+    "country":"Cameroon",
+    "2021_population":27624492,
+    "2020_population":26545863,
+    "area_km_sq":475442,
+    "density_km_sq":57,
+    "growth_rate_%":2.56,
+    "world_%":0.35,
+    "rank":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.5679458,7.9897371 ]
+    },
+    "properties": {
+    "FIELD1":51,
+    "iso_code":"CIV",
+    "country":"Ivory Coast",
+    "2021_population":27451054,
+    "2020_population":26378274,
+    "area_km_sq":322463,
+    "density_km_sq":84,
+    "growth_rate_%":2.56,
+    "world_%":0.34,
+    "rank":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0870417,40.3736611 ]
+    },
+    "properties": {
+    "FIELD1":52,
+    "iso_code":"PRK",
+    "country":"North Korea",
+    "2021_population":25950189,
+    "2020_population":25778816,
+    "area_km_sq":120538,
+    "density_km_sq":215,
+    "growth_rate_%":0.42,
+    "world_%":0.33,
+    "rank":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.755,-24.7761086 ]
+    },
+    "properties": {
+    "FIELD1":53,
+    "iso_code":"AUS",
+    "country":"Australia",
+    "2021_population":25959987,
+    "2020_population":25499884,
+    "area_km_sq":7692024,
+    "density_km_sq":3,
+    "growth_rate_%":1.13,
+    "world_%":0.33,
+    "rank":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.3238432,17.7356214 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "iso_code":"NER",
+    "country":"Niger",
+    "2021_population":25677816,
+    "2020_population":24206644,
+    "area_km_sq":1267000,
+    "density_km_sq":20,
+    "growth_rate_%":3.82,
+    "world_%":0.32,
+    "rank":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9820179,23.9739374 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "iso_code":"TWN",
+    "country":"Taiwan",
+    "2021_population":23877855,
+    "2020_population":23816775,
+    "area_km_sq":36193,
+    "density_km_sq":659,
+    "growth_rate_%":0.16,
+    "world_%":0.3,
+    "rank":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.66247852355892,7.877395849999999 ]
+    },
+    "properties": {
+    "FIELD1":56,
+    "iso_code":"LKA",
+    "country":"Sri Lanka",
+    "2021_population":21547096,
+    "2020_population":21413249,
+    "area_km_sq":65610,
+    "density_km_sq":328,
+    "growth_rate_%":0.39,
+    "world_%":0.27,
+    "rank":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.6880314,12.0753083 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "iso_code":"BFA",
+    "country":"Burkina Faso",
+    "2021_population":21847968,
+    "2020_population":20903273,
+    "area_km_sq":272967,
+    "density_km_sq":79,
+    "growth_rate_%":2.84,
+    "world_%":0.27,
+    "rank":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2900239,16.3700359 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "iso_code":"MLI",
+    "country":"Mali",
+    "2021_population":21212426,
+    "2020_population":20250833,
+    "area_km_sq":1240192,
+    "density_km_sq":17,
+    "growth_rate_%":2.99,
+    "world_%":0.26,
+    "rank":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.9301963,-13.2687204 ]
+    },
+    "properties": {
+    "FIELD1":59,
+    "iso_code":"MWI",
+    "country":"Malawi",
+    "2021_population":19953296,
+    "2020_population":19129952,
+    "area_km_sq":118484,
+    "density_km_sq":166,
+    "growth_rate_%":2.71,
+    "world_%":0.25,
+    "rank":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3187697,-31.7613365 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "iso_code":"CHL",
+    "country":"Chile",
+    "2021_population":19275294,
+    "2020_population":19116201,
+    "area_km_sq":756102,
+    "density_km_sq":25,
+    "growth_rate_%":0.5,
+    "world_%":0.24,
+    "rank":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6859225,45.9852129 ]
+    },
+    "properties": {
+    "FIELD1":61,
+    "iso_code":"ROU",
+    "country":"Romania",
+    "2021_population":19062255,
+    "2020_population":19237691,
+    "area_km_sq":238391,
+    "density_km_sq":80,
+    "growth_rate_%":-0.57,
+    "world_%":0.24,
+    "rank":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.7780818,48.1012954 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "iso_code":"KAZ",
+    "country":"Kazakhstan",
+    "2021_population":19123199,
+    "2020_population":18776707,
+    "area_km_sq":2724900,
+    "density_km_sq":7,
+    "growth_rate_%":1.16,
+    "world_%":0.24,
+    "rank":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.5589884,-14.5189121 ]
+    },
+    "properties": {
+    "FIELD1":63,
+    "iso_code":"ZMB",
+    "country":"Zambia",
+    "2021_population":19238117,
+    "2020_population":18383955,
+    "area_km_sq":752612,
+    "density_km_sq":25,
+    "growth_rate_%":2.92,
+    "world_%":0.24,
+    "rank":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.0494106,34.6401861 ]
+    },
+    "properties": {
+    "FIELD1":64,
+    "iso_code":"SYR",
+    "country":"Syria",
+    "2021_population":18646187,
+    "2020_population":17500658,
+    "area_km_sq":185180,
+    "density_km_sq":99,
+    "growth_rate_%":4.43,
+    "world_%":0.23,
+    "rank":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.345759,15.5855545 ]
+    },
+    "properties": {
+    "FIELD1":65,
+    "iso_code":"GTM",
+    "country":"Guatemala",
+    "2021_population":18446417,
+    "2020_population":17915568,
+    "area_km_sq":108889,
+    "density_km_sq":168,
+    "growth_rate_%":1.87,
+    "world_%":0.23,
+    "rank":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3666965,-1.3397668 ]
+    },
+    "properties": {
+    "FIELD1":66,
+    "iso_code":"ECU",
+    "country":"Ecuador",
+    "2021_population":18033738,
+    "2020_population":17643054,
+    "area_km_sq":276841,
+    "density_km_sq":65,
+    "growth_rate_%":1.39,
+    "world_%":0.23,
+    "rank":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -14.4529612,14.4750607 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "iso_code":"SEN",
+    "country":"Senegal",
+    "2021_population":17462688,
+    "2020_population":16743927,
+    "area_km_sq":196722,
+    "density_km_sq":87,
+    "growth_rate_%":2.7,
+    "world_%":0.22,
+    "rank":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.6343227,52.2434979 ]
+    },
+    "properties": {
+    "FIELD1":68,
+    "iso_code":"NLD",
+    "country":"Netherlands",
+    "2021_population":17195298,
+    "2020_population":17134872,
+    "area_km_sq":41850,
+    "density_km_sq":410,
+    "growth_rate_%":0.22,
+    "world_%":0.22,
+    "rank":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.8144914,12.5433216 ]
+    },
+    "properties": {
+    "FIELD1":69,
+    "iso_code":"KHM",
+    "country":"Cambodia",
+    "2021_population":17080063,
+    "2020_population":16718965,
+    "area_km_sq":181035,
+    "density_km_sq":94,
+    "growth_rate_%":1.36,
+    "world_%":0.22,
+    "rank":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.0156172,15.6134137 ]
+    },
+    "properties": {
+    "FIELD1":70,
+    "iso_code":"TCD",
+    "country":"Chad",
+    "2021_population":17203787,
+    "2020_population":16425864,
+    "area_km_sq":1284000,
+    "density_km_sq":13,
+    "growth_rate_%":2.98,
+    "world_%":0.21,
+    "rank":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.083416,8.3676771 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "iso_code":"SOM",
+    "country":"Somalia",
+    "2021_population":16634297,
+    "2020_population":15893222,
+    "area_km_sq":637657,
+    "density_km_sq":26,
+    "growth_rate_%":2.93,
+    "world_%":0.21,
+    "rank":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7468414,-18.4554963 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "iso_code":"ZWE",
+    "country":"Zimbabwe",
+    "2021_population":15229891,
+    "2020_population":14862924,
+    "area_km_sq":390757,
+    "density_km_sq":39,
+    "growth_rate_%":1.54,
+    "world_%":0.19,
+    "rank":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -10.7083587,10.7226226 ]
+    },
+    "properties": {
+    "FIELD1":73,
+    "iso_code":"GIN",
+    "country":"Guinea",
+    "2021_population":13709966,
+    "2020_population":13132795,
+    "area_km_sq":245857,
+    "density_km_sq":55,
+    "growth_rate_%":2.78,
+    "world_%":0.17,
+    "rank":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.0644358,-1.9646631 ]
+    },
+    "properties": {
+    "FIELD1":74,
+    "iso_code":"RWA",
+    "country":"Rwanda",
+    "2021_population":13466174,
+    "2020_population":12952218,
+    "area_km_sq":26338,
+    "density_km_sq":504,
+    "growth_rate_%":2.5,
+    "world_%":0.17,
+    "rank":76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.2584408,9.5293472 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "iso_code":"BEN",
+    "country":"Benin",
+    "2021_population":12644580,
+    "2020_population":12123200,
+    "area_km_sq":112622,
+    "density_km_sq":111,
+    "growth_rate_%":2.7,
+    "world_%":0.16,
+    "rank":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.9324519,-3.426449 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "iso_code":"BDI",
+    "country":"Burundi",
+    "2021_population":12469663,
+    "2020_population":11890784,
+    "area_km_sq":27834,
+    "density_km_sq":440,
+    "growth_rate_%":3.07,
+    "world_%":0.16,
+    "rank":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.400138,33.8439408 ]
+    },
+    "properties": {
+    "FIELD1":77,
+    "iso_code":"TUN",
+    "country":"Tunisia",
+    "2021_population":12003225,
+    "2020_population":11818619,
+    "area_km_sq":163610,
+    "density_km_sq":73,
+    "growth_rate_%":0.99,
+    "world_%":0.15,
+    "rank":79
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.9912286,-17.0568696 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "iso_code":"BOL",
+    "country":"Bolivia",
+    "2021_population":11927124,
+    "2020_population":11673021,
+    "area_km_sq":1098581,
+    "density_km_sq":11,
+    "growth_rate_%":1.37,
+    "world_%":0.15,
+    "rank":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.6667145,50.6402809 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "iso_code":"BEL",
+    "country":"Belgium",
+    "2021_population":11658404,
+    "2020_population":11589623,
+    "area_km_sq":30528,
+    "density_km_sq":381,
+    "growth_rate_%":0.37,
+    "world_%":0.15,
+    "rank":81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.3570972,19.1399952 ]
+    },
+    "properties": {
+    "FIELD1":80,
+    "iso_code":"HTI",
+    "country":"Haiti",
+    "2021_population":11623799,
+    "2020_population":11402528,
+    "area_km_sq":27750,
+    "density_km_sq":416,
+    "growth_rate_%":1.22,
+    "world_%":0.15,
+    "rank":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.6667897,7.8699431 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "iso_code":"SSD",
+    "country":"South Sudan",
+    "2021_population":11493450,
+    "2020_population":11193725,
+    "area_km_sq":619745,
+    "density_km_sq":18,
+    "growth_rate_%":1.68,
+    "world_%":0.14,
+    "rank":83
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8328748,23.0131338 ]
+    },
+    "properties": {
+    "FIELD1":82,
+    "iso_code":"CUB",
+    "country":"Cuba",
+    "2021_population":11312548,
+    "2020_population":11326616,
+    "area_km_sq":109884,
+    "density_km_sq":103,
+    "growth_rate_%":-0.08,
+    "world_%":0.14,
+    "rank":84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3028026,19.0974031 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "iso_code":"DOM",
+    "country":"Dominican Republic",
+    "2021_population":11015774,
+    "2020_population":10847910,
+    "area_km_sq":48671,
+    "density_km_sq":225,
+    "growth_rate_%":0.98,
+    "world_%":0.14,
+    "rank":85
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.3381061,49.7439047 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "iso_code":"CZE",
+    "country":"Czech Republic",
+    "2021_population":10732960,
+    "2020_population":10708981,
+    "area_km_sq":78865,
+    "density_km_sq":136,
+    "growth_rate_%":0.15,
+    "world_%":0.14,
+    "rank":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.9877132,38.9953683 ]
+    },
+    "properties": {
+    "FIELD1":85,
+    "iso_code":"GRC",
+    "country":"Greece",
+    "2021_population":10340571,
+    "2020_population":10423054,
+    "area_km_sq":131990,
+    "density_km_sq":79,
+    "growth_rate_%":-0.5,
+    "world_%":0.13,
+    "rank":87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.941628,31.1667049 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "iso_code":"JOR",
+    "country":"Jordan",
+    "2021_population":10322902,
+    "2020_population":10203134,
+    "area_km_sq":89342,
+    "density_km_sq":115,
+    "growth_rate_%":0.65,
+    "world_%":0.13,
+    "rank":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.7872508,40.3936294 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "iso_code":"AZE",
+    "country":"Azerbaijan",
+    "2021_population":10272912,
+    "2020_population":10139177,
+    "area_km_sq":86600,
+    "density_km_sq":118,
+    "growth_rate_%":0.83,
+    "world_%":0.13,
+    "rank":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.1353519,39.6621648 ]
+    },
+    "properties": {
+    "FIELD1":88,
+    "iso_code":"PRT",
+    "country":"Portugal",
+    "2021_population":10150252,
+    "2020_population":10196709,
+    "area_km_sq":92090,
+    "density_km_sq":110,
+    "growth_rate_%":-0.28,
+    "world_%":0.13,
+    "rank":90
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.5208584,59.6749712 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "iso_code":"SWE",
+    "country":"Sweden",
+    "2021_population":10196161,
+    "2020_population":10099265,
+    "area_km_sq":450295,
+    "density_km_sq":23,
+    "growth_rate_%":0.6,
+    "world_%":0.13,
+    "rank":91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.0755145,15.2572432 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "iso_code":"HND",
+    "country":"Honduras",
+    "2021_population":10156097,
+    "2020_population":9904607,
+    "area_km_sq":112492,
+    "density_km_sq":89,
+    "growth_rate_%":1.6,
+    "world_%":0.13,
+    "rank":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.9994829,24.0002488 ]
+    },
+    "properties": {
+    "FIELD1":91,
+    "iso_code":"ARE",
+    "country":"United Arab Emirates",
+    "2021_population":10051436,
+    "2020_population":9890402,
+    "area_km_sq":83600,
+    "density_km_sq":120,
+    "growth_rate_%":1.02,
+    "world_%":0.13,
+    "rank":93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.8156541,38.6281733 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "iso_code":"TJK",
+    "country":"Tajikistan",
+    "2021_population":9873338,
+    "2020_population":9537645,
+    "area_km_sq":143100,
+    "density_km_sq":68,
+    "growth_rate_%":2.22,
+    "world_%":0.12,
+    "rank":94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5060937,47.1817585 ]
+    },
+    "properties": {
+    "FIELD1":93,
+    "iso_code":"HUN",
+    "country":"Hungary",
+    "2021_population":9618215,
+    "2020_population":9660351,
+    "area_km_sq":93028,
+    "density_km_sq":104,
+    "growth_rate_%":-0.27,
+    "world_%":0.12,
+    "rank":95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.6971358,53.4250605 ]
+    },
+    "properties": {
+    "FIELD1":94,
+    "iso_code":"BLR",
+    "country":"Belarus",
+    "2021_population":9438767,
+    "2020_population":9449323,
+    "area_km_sq":207600,
+    "density_km_sq":45,
+    "growth_rate_%":-0.07,
+    "world_%":0.12,
+    "rank":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.2489081,-5.6816069 ]
+    },
+    "properties": {
+    "FIELD1":95,
+    "iso_code":"PNG",
+    "country":"Papua New Guinea",
+    "2021_population":9220306,
+    "2020_population":8947024,
+    "area_km_sq":462840,
+    "density_km_sq":20,
+    "growth_rate_%":1.92,
+    "world_%":0.12,
+    "rank":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.12456,47.59397 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "iso_code":"AUT",
+    "country":"Austria",
+    "2021_population":9065484,
+    "2020_population":9006398,
+    "area_km_sq":83871,
+    "density_km_sq":108,
+    "growth_rate_%":0.41,
+    "world_%":0.11,
+    "rank":98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8594762,30.8124247 ]
+    },
+    "properties": {
+    "FIELD1":97,
+    "iso_code":"ISR",
+    "country":"Israel",
+    "2021_population":8868656,
+    "2020_population":8655535,
+    "area_km_sq":20770,
+    "density_km_sq":423,
+    "growth_rate_%":1.55,
+    "world_%":0.11,
+    "rank":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.2319736,46.7985624 ]
+    },
+    "properties": {
+    "FIELD1":98,
+    "iso_code":"CHE",
+    "country":"Switzerland",
+    "2021_population":8752564,
+    "2020_population":8654622,
+    "area_km_sq":41284,
+    "density_km_sq":211,
+    "growth_rate_%":0.7,
+    "world_%":0.11,
+    "rank":100
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.55144,44.1534121 ]
+    },
+    "properties": {
+    "FIELD1":99,
+    "iso_code":"SRB",
+    "country":"Serbia",
+    "2021_population":8674489,
+    "2020_population":8737371,
+    "area_km_sq":88361,
+    "density_km_sq":98,
+    "growth_rate_%":-0.46,
+    "world_%":0.11,
+    "rank":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.0199765,8.7800265 ]
+    },
+    "properties": {
+    "FIELD1":100,
+    "iso_code":"TGO",
+    "country":"Togo",
+    "2021_population":8596357,
+    "2020_population":8278724,
+    "area_km_sq":56785,
+    "density_km_sq":149,
+    "growth_rate_%":2.41,
+    "world_%":0.11,
+    "rank":102
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -11.8400269,8.6400349 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "iso_code":"SLE",
+    "country":"Sierra Leone",
+    "2021_population":8238113,
+    "2020_population":7976983,
+    "area_km_sq":71740,
+    "density_km_sq":113,
+    "growth_rate_%":2.06,
+    "world_%":0.1,
+    "rank":103
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1628131,22.2793278 ]
+    },
+    "properties": {
+    "FIELD1":102,
+    "iso_code":"HKG",
+    "country":"Hong Kong",
+    "2021_population":7585785,
+    "2020_population":7496981,
+    "area_km_sq":1104,
+    "density_km_sq":6,
+    "growth_rate_%":0.74,
+    "world_%":0.1,
+    "rank":104
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.378253,20.0171109 ]
+    },
+    "properties": {
+    "FIELD1":103,
+    "iso_code":"LAO",
+    "country":"Laos",
+    "2021_population":7439920,
+    "2020_population":7275560,
+    "area_km_sq":236800,
+    "density_km_sq":31,
+    "growth_rate_%":1.43,
+    "world_%":0.09,
+    "rank":105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.1693445,-23.3165935 ]
+    },
+    "properties": {
+    "FIELD1":104,
+    "iso_code":"PRY",
+    "country":"Paraguay",
+    "2021_population":7270717,
+    "2020_population":7132538,
+    "area_km_sq":406752,
+    "density_km_sq":18,
+    "growth_rate_%":1.22,
+    "world_%":0.09,
+    "rank":106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1236723,26.8234472 ]
+    },
+    "properties": {
+    "FIELD1":105,
+    "iso_code":"LBY",
+    "country":"Libya",
+    "2021_population":7007887,
+    "2020_population":6871292,
+    "area_km_sq":1759540,
+    "density_km_sq":4,
+    "growth_rate_%":1.27,
+    "world_%":0.09,
+    "rank":107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.4856617,42.6073975 ]
+    },
+    "properties": {
+    "FIELD1":106,
+    "iso_code":"BGR",
+    "country":"Bulgaria",
+    "2021_population":6866274,
+    "2020_population":6948445,
+    "area_km_sq":110879,
+    "density_km_sq":62,
+    "growth_rate_%":-0.75,
+    "world_%":0.09,
+    "rank":108
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.843409,33.8750629 ]
+    },
+    "properties": {
+    "FIELD1":107,
+    "iso_code":"LBN",
+    "country":"Lebanon",
+    "2021_population":6752766,
+    "2020_population":6825445,
+    "area_km_sq":10452,
+    "density_km_sq":648,
+    "growth_rate_%":-0.82,
+    "world_%":0.09,
+    "rank":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.2936911,12.6090157 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "iso_code":"NIC",
+    "country":"Nicaragua",
+    "2021_population":6748507,
+    "2020_population":6624554,
+    "area_km_sq":130373,
+    "density_km_sq":51,
+    "growth_rate_%":1.17,
+    "world_%":0.09,
+    "rank":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.724091,41.5089324 ]
+    },
+    "properties": {
+    "FIELD1":109,
+    "iso_code":"KGZ",
+    "country":"Kyrgyzstan",
+    "2021_population":6689349,
+    "2020_population":6524195,
+    "area_km_sq":199951,
+    "density_km_sq":33,
+    "growth_rate_%":1.6,
+    "world_%":0.08,
+    "rank":111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.9140683,13.8000382 ]
+    },
+    "properties": {
+    "FIELD1":110,
+    "iso_code":"SLV",
+    "country":"El Salvador",
+    "2021_population":6537250,
+    "2020_population":6486205,
+    "area_km_sq":21041,
+    "density_km_sq":310,
+    "growth_rate_%":0.5,
+    "world_%":0.08,
+    "rank":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.3924609,39.3763807 ]
+    },
+    "properties": {
+    "FIELD1":111,
+    "iso_code":"TKM",
+    "country":"Turkmenistan",
+    "2021_population":6168788,
+    "2020_population":6031200,
+    "area_km_sq":488100,
+    "density_km_sq":13,
+    "growth_rate_%":1.44,
+    "world_%":0.08,
+    "rank":113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8194992,1.357107 ]
+    },
+    "properties": {
+    "FIELD1":112,
+    "iso_code":"SGP",
+    "country":"Singapore",
+    "2021_population":5925135,
+    "2020_population":5850342,
+    "area_km_sq":710,
+    "density_km_sq":8,
+    "growth_rate_%":0.79,
+    "world_%":0.07,
+    "rank":114
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.3333283,55.670249 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "iso_code":"DNK",
+    "country":"Denmark",
+    "2021_population":5825798,
+    "2020_population":5792202,
+    "area_km_sq":43094,
+    "density_km_sq":135,
+    "growth_rate_%":0.36,
+    "world_%":0.07,
+    "rank":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.9209164,63.2467777 ]
+    },
+    "properties": {
+    "FIELD1":114,
+    "iso_code":"FIN",
+    "country":"Finland",
+    "2021_population":5553102,
+    "2020_population":5540720,
+    "area_km_sq":338424,
+    "density_km_sq":16,
+    "growth_rate_%":0.14,
+    "world_%":0.07,
+    "rank":117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.7876653,61.1529386 ]
+    },
+    "properties": {
+    "FIELD1":115,
+    "iso_code":"NOR",
+    "country":"Norway",
+    "2021_population":5492570,
+    "2020_population":5421241,
+    "area_km_sq":323802,
+    "density_km_sq":17,
+    "growth_rate_%":0.82,
+    "world_%":0.07,
+    "rank":118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.4528646,48.7411522 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "iso_code":"SVK",
+    "country":"Slovakia",
+    "2021_population":5460937,
+    "2020_population":5459642,
+    "area_km_sq":49037,
+    "density_km_sq":111,
+    "growth_rate_%":0.02,
+    "world_%":0.07,
+    "rank":119
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.0036901,21.0000287 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "iso_code":"OMN",
+    "country":"Oman",
+    "2021_population":5296006,
+    "2020_population":5106626,
+    "area_km_sq":309500,
+    "density_km_sq":17,
+    "growth_rate_%":2.29,
+    "world_%":0.07,
+    "rank":120
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.262716572130714,31.462420950000002 ]
+    },
+    "properties": {
+    "FIELD1":118,
+    "iso_code":"PSE",
+    "country":"Palestine",
+    "2021_population":5293440,
+    "2020_population":5101414,
+    "area_km_sq":6220,
+    "density_km_sq":840,
+    "growth_rate_%":2.38,
+    "world_%":0.07,
+    "rank":121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.3658524,5.7499721 ]
+    },
+    "properties": {
+    "FIELD1":119,
+    "iso_code":"LBR",
+    "country":"Liberia",
+    "2021_population":5252834,
+    "2020_population":5057681,
+    "area_km_sq":111369,
+    "density_km_sq":47,
+    "growth_rate_%":2.42,
+    "world_%":0.07,
+    "rank":122
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0739102,10.2735633 ]
+    },
+    "properties": {
+    "FIELD1":120,
+    "iso_code":"CRI",
+    "country":"Costa Rica",
+    "2021_population":5165346,
+    "2020_population":5094118,
+    "area_km_sq":51100,
+    "density_km_sq":101,
+    "growth_rate_%":0.88,
+    "world_%":0.07,
+    "rank":123
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9794599,52.865196 ]
+    },
+    "properties": {
+    "FIELD1":121,
+    "iso_code":"IRL",
+    "country":"Ireland",
+    "2021_population":5008554,
+    "2020_population":4937786,
+    "area_km_sq":70273,
+    "density_km_sq":71,
+    "growth_rate_%":0.91,
+    "world_%":0.06,
+    "rank":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.9981227,7.0323598 ]
+    },
+    "properties": {
+    "FIELD1":122,
+    "iso_code":"CAF",
+    "country":"Central African Republic",
+    "2021_population":4971922,
+    "2020_population":4829767,
+    "area_km_sq":622984,
+    "density_km_sq":8,
+    "growth_rate_%":1.87,
+    "world_%":0.06,
+    "rank":125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.8344077,-41.5000831 ]
+    },
+    "properties": {
+    "FIELD1":123,
+    "iso_code":"NZL",
+    "country":"New Zealand",
+    "2021_population":4883704,
+    "2020_population":4822233,
+    "area_km_sq":270467,
+    "density_km_sq":18,
+    "growth_rate_%":0.8,
+    "world_%":0.06,
+    "rank":126
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.2399263,20.2540382 ]
+    },
+    "properties": {
+    "FIELD1":124,
+    "iso_code":"MRT",
+    "country":"Mauritania",
+    "2021_population":4848828,
+    "2020_population":4649658,
+    "area_km_sq":1030700,
+    "density_km_sq":5,
+    "growth_rate_%":2.7,
+    "world_%":0.06,
+    "rank":127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1308434,8.559559 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "iso_code":"PAN",
+    "country":"Panama",
+    "2021_population":4420589,
+    "2020_population":4314767,
+    "area_km_sq":75417,
+    "density_km_sq":58,
+    "growth_rate_%":1.55,
+    "world_%":0.06,
+    "rank":128
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4979476,29.2733964 ]
+    },
+    "properties": {
+    "FIELD1":126,
+    "iso_code":"KWT",
+    "country":"Kuwait",
+    "2021_population":4366698,
+    "2020_population":4270571,
+    "area_km_sq":17818,
+    "density_km_sq":243,
+    "growth_rate_%":1.36,
+    "world_%":0.05,
+    "rank":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6575209,45.3658443 ]
+    },
+    "properties": {
+    "FIELD1":127,
+    "iso_code":"HRV",
+    "country":"Croatia",
+    "2021_population":4067642,
+    "2020_population":4105267,
+    "area_km_sq":56594,
+    "density_km_sq":72,
+    "growth_rate_%":-0.58,
+    "world_%":0.05,
+    "rank":130
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.5670941,47.2879608 ]
+    },
+    "properties": {
+    "FIELD1":128,
+    "iso_code":"MDA",
+    "country":"Moldova",
+    "2021_population":4017984,
+    "2020_population":4033963,
+    "area_km_sq":33846,
+    "density_km_sq":119,
+    "growth_rate_%":-0.25,
+    "world_%":0.05,
+    "rank":131
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1137366,32.3293809 ]
+    },
+    "properties": {
+    "FIELD1":129,
+    "iso_code":"GEO",
+    "country":"Georgia",
+    "2021_population":3973946,
+    "2020_population":3989167,
+    "area_km_sq":69700,
+    "density_km_sq":57,
+    "growth_rate_%":-0.24,
+    "world_%":0.05,
+    "rank":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9999668,15.9500319 ]
+    },
+    "properties": {
+    "FIELD1":130,
+    "iso_code":"ERI",
+    "country":"Eritrea",
+    "2021_population":3633796,
+    "2020_population":3546421,
+    "area_km_sq":117600,
+    "density_km_sq":31,
+    "growth_rate_%":1.55,
+    "world_%":0.05,
+    "rank":133
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0201525,-32.8755548 ]
+    },
+    "properties": {
+    "FIELD1":131,
+    "iso_code":"URY",
+    "country":"Uruguay",
+    "2021_population":3491832,
+    "2020_population":3473730,
+    "area_km_sq":181034,
+    "density_km_sq":19,
+    "growth_rate_%":0.33,
+    "world_%":0.04,
+    "rank":134
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8499736,46.8250388 ]
+    },
+    "properties": {
+    "FIELD1":132,
+    "iso_code":"MNG",
+    "country":"Mongolia",
+    "2021_population":3359247,
+    "2020_population":3278290,
+    "area_km_sq":1564110,
+    "density_km_sq":2,
+    "growth_rate_%":1.56,
+    "world_%":0.04,
+    "rank":135
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5961467,44.3053476 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "iso_code":"BIH",
+    "country":"Bosnia And Herzegovina",
+    "2021_population":3251612,
+    "2020_population":3280819,
+    "area_km_sq":51209,
+    "density_km_sq":64,
+    "growth_rate_%":-0.53,
+    "world_%":0.04,
+    "rank":136
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.3947693,18.1850507 ]
+    },
+    "properties": {
+    "FIELD1":134,
+    "iso_code":"JAM",
+    "country":"Jamaica",
+    "2021_population":2980575,
+    "2020_population":2961167,
+    "area_km_sq":10991,
+    "density_km_sq":271,
+    "growth_rate_%":0.42,
+    "world_%":0.04,
+    "rank":137
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6736646,40.7696272 ]
+    },
+    "properties": {
+    "FIELD1":135,
+    "iso_code":"ARM",
+    "country":"Armenia",
+    "2021_population":2970929,
+    "2020_population":2963243,
+    "area_km_sq":29743,
+    "density_km_sq":100,
+    "growth_rate_%":0.16,
+    "world_%":0.04,
+    "rank":138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.2295295,25.3336984 ]
+    },
+    "properties": {
+    "FIELD1":136,
+    "iso_code":"QAT",
+    "country":"Qatar",
+    "2021_population":2962425,
+    "2020_population":2881053,
+    "area_km_sq":11586,
+    "density_km_sq":253,
+    "growth_rate_%":1.72,
+    "world_%":0.04,
+    "rank":139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.9999619,41.000028 ]
+    },
+    "properties": {
+    "FIELD1":137,
+    "iso_code":"ALB",
+    "country":"Albania",
+    "2021_population":2869700,
+    "2020_population":2877797,
+    "area_km_sq":28748,
+    "density_km_sq":100,
+    "growth_rate_%":-0.17,
+    "world_%":0.04,
+    "rank":140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.4858295,18.2247706 ]
+    },
+    "properties": {
+    "FIELD1":138,
+    "iso_code":"PRI",
+    "country":"Puerto Rico",
+    "2021_population":2806918,
+    "2020_population":2860853,
+    "area_km_sq":8870,
+    "density_km_sq":319,
+    "growth_rate_%":-1.14,
+    "world_%":0.04,
+    "rank":141
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.7499997,55.3500003 ]
+    },
+    "properties": {
+    "FIELD1":139,
+    "iso_code":"LTU",
+    "country":"Lithuania",
+    "2021_population":2670680,
+    "2020_population":2722289,
+    "area_km_sq":65300,
+    "density_km_sq":41,
+    "growth_rate_%":-1.19,
+    "world_%":0.03,
+    "rank":142
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.3231107,-23.2335499 ]
+    },
+    "properties": {
+    "FIELD1":140,
+    "iso_code":"NAM",
+    "country":"Namibia",
+    "2021_population":2614500,
+    "2020_population":2540905,
+    "area_km_sq":825615,
+    "density_km_sq":3,
+    "growth_rate_%":1.83,
+    "world_%":0.03,
+    "rank":143
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.4900464,13.470062 ]
+    },
+    "properties": {
+    "FIELD1":141,
+    "iso_code":"GMB",
+    "country":"Gambia",
+    "2021_population":2528326,
+    "2020_population":2416668,
+    "area_km_sq":10689,
+    "density_km_sq":233,
+    "growth_rate_%":2.91,
+    "world_%":0.03,
+    "rank":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.5928742,-23.1681782 ]
+    },
+    "properties": {
+    "FIELD1":142,
+    "iso_code":"BWA",
+    "country":"Botswana",
+    "2021_population":2423535,
+    "2020_population":2351627,
+    "area_km_sq":582000,
+    "density_km_sq":4,
+    "growth_rate_%":1.94,
+    "world_%":0.03,
+    "rank":145
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.6899699,-0.8999695 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "iso_code":"GAB",
+    "country":"Gabon",
+    "2021_population":2310507,
+    "2020_population":2225734,
+    "area_km_sq":267668,
+    "density_km_sq":9,
+    "growth_rate_%":2.39,
+    "world_%":0.03,
+    "rank":146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3350193,-29.6039267 ]
+    },
+    "properties": {
+    "FIELD1":144,
+    "iso_code":"LSO",
+    "country":"Lesotho",
+    "2021_population":2169209,
+    "2020_population":2142249,
+    "area_km_sq":30355,
+    "density_km_sq":71,
+    "growth_rate_%":0.79,
+    "world_%":0.03,
+    "rank":147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.7168387,41.6171214 ]
+    },
+    "properties": {
+    "FIELD1":145,
+    "iso_code":"MKD",
+    "country":"North Macedonia",
+    "2021_population":2082011,
+    "2020_population":2083374,
+    "area_km_sq":25713,
+    "density_km_sq":81,
+    "growth_rate_%":-0.03,
+    "world_%":0.03,
+    "rank":148
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.8153333,46.1199444 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "iso_code":"SVN",
+    "country":"Slovenia",
+    "2021_population":2078724,
+    "2020_population":2078938,
+    "area_km_sq":20273,
+    "density_km_sq":103,
+    "growth_rate_%":-0.01,
+    "world_%":0.03,
+    "rank":149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.2351044,11.815215 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "iso_code":"GNB",
+    "country":"Guinea Bissau",
+    "2021_population":2043512,
+    "2020_population":1968001,
+    "area_km_sq":36125,
+    "density_km_sq":56,
+    "growth_rate_%":2.41,
+    "world_%":0.03,
+    "rank":150
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.7537645,56.8406494 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "iso_code":"LVA",
+    "country":"Latvia",
+    "2021_population":1855735,
+    "2020_population":1886198,
+    "area_km_sq":64559,
+    "density_km_sq":29,
+    "growth_rate_%":-1.02,
+    "world_%":0.02,
+    "rank":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.5344606,26.1551249 ]
+    },
+    "properties": {
+    "FIELD1":149,
+    "iso_code":"BHR",
+    "country":"Bahrain",
+    "2021_population":1775452,
+    "2020_population":1701575,
+    "area_km_sq":765,
+    "density_km_sq":2,
+    "growth_rate_%":2.75,
+    "world_%":0.02,
+    "rank":152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.5170357,1.613172 ]
+    },
+    "properties": {
+    "FIELD1":150,
+    "iso_code":"GNQ",
+    "country":"Equatorial Guinea",
+    "2021_population":1477483,
+    "2020_population":1402985,
+    "area_km_sq":28051,
+    "density_km_sq":52,
+    "growth_rate_%":3.34,
+    "world_%":0.02,
+    "rank":153
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.0840075,10.7466905 ]
+    },
+    "properties": {
+    "FIELD1":151,
+    "iso_code":"TTO",
+    "country":"Trinidad And Tobago",
+    "2021_population":1405746,
+    "2020_population":1399488,
+    "area_km_sq":5130,
+    "density_km_sq":274,
+    "growth_rate_%":0.28,
+    "world_%":0.02,
+    "rank":154
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.063482,-8.7443169 ]
+    },
+    "properties": {
+    "FIELD1":152,
+    "iso_code":"TLS",
+    "country":"Timor Leste",
+    "2021_population":1358744,
+    "2020_population":1318445,
+    "area_km_sq":14874,
+    "density_km_sq":90,
+    "growth_rate_%":1.93,
+    "world_%":0.02,
+    "rank":155
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.3319078,58.7523778 ]
+    },
+    "properties": {
+    "FIELD1":153,
+    "iso_code":"EST",
+    "country":"Estonia",
+    "2021_population":1324323,
+    "2020_population":1326535,
+    "area_km_sq":45227,
+    "density_km_sq":29,
+    "growth_rate_%":-0.1,
+    "world_%":0.02,
+    "rank":156
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.5703566,-20.2759451 ]
+    },
+    "properties": {
+    "FIELD1":154,
+    "iso_code":"MUS",
+    "country":"Mauritius",
+    "2021_population":1274295,
+    "2020_population":1271768,
+    "area_km_sq":2040,
+    "density_km_sq":624,
+    "growth_rate_%":0.13,
+    "world_%":0.02,
+    "rank":157
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.1451285,34.9823018 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "iso_code":"CYP",
+    "country":"Cyprus",
+    "2021_population":1220541,
+    "2020_population":1207359,
+    "area_km_sq":9251,
+    "density_km_sq":131,
+    "growth_rate_%":0.68,
+    "world_%":0.02,
+    "rank":158
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8453061,11.8145966 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "iso_code":"DJI",
+    "country":"Djibouti",
+    "2021_population":1010377,
+    "2020_population":988000,
+    "area_km_sq":23200,
+    "density_km_sq":43,
+    "growth_rate_%":1.44,
+    "world_%":0.01,
+    "rank":160
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.0122737,-18.1239696 ]
+    },
+    "properties": {
+    "FIELD1":157,
+    "iso_code":"FJI",
+    "country":"Fiji",
+    "2021_population":906570,
+    "2020_population":896445,
+    "area_km_sq":18272,
+    "density_km_sq":49,
+    "growth_rate_%":0.72,
+    "world_%":0.01,
+    "rank":161
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.536480112992315,-21.130737949999997 ]
+    },
+    "properties": {
+    "FIELD1":158,
+    "iso_code":"RU",
+    "country":"Reunion",
+    "2021_population":905350,
+    "2020_population":895312,
+    "area_km_sq":2511,
+    "density_km_sq":359,
+    "growth_rate_%":0.71,
+    "world_%":0.01,
+    "rank":162
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2832964,-12.2045176 ]
+    },
+    "properties": {
+    "FIELD1":159,
+    "iso_code":"COM",
+    "country":"Comoros",
+    "2021_population":899658,
+    "2020_population":869601,
+    "area_km_sq":1862,
+    "density_km_sq":477,
+    "growth_rate_%":2.17,
+    "world_%":0.01,
+    "rank":163
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.6416891,4.8417097 ]
+    },
+    "properties": {
+    "FIELD1":160,
+    "iso_code":"GUY",
+    "country":"Guyana",
+    "2021_population":792481,
+    "2020_population":786552,
+    "area_km_sq":214969,
+    "density_km_sq":4,
+    "growth_rate_%":0.48,
+    "world_%":0.01,
+    "rank":164
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.5119273,27.549511 ]
+    },
+    "properties": {
+    "FIELD1":161,
+    "iso_code":"BTN",
+    "country":"Bhutan",
+    "2021_population":784855,
+    "2020_population":771608,
+    "area_km_sq":38394,
+    "density_km_sq":20,
+    "growth_rate_%":1.07,
+    "world_%":0.01,
+    "rank":165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 159.1070693851845,-8.7053941 ]
+    },
+    "properties": {
+    "FIELD1":162,
+    "iso_code":"SLB",
+    "country":"Solomon Islands",
+    "2021_population":714126,
+    "2020_population":686884,
+    "area_km_sq":28896,
+    "density_km_sq":24,
+    "growth_rate_%":2.49,
+    "world_%":0.01,
+    "rank":166
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5380454,22.1899448 ]
+    },
+    "properties": {
+    "FIELD1":163,
+    "iso_code":"MAC",
+    "country":"Macau",
+    "2021_population":663998,
+    "2020_population":649335,
+    "area_km_sq":30,
+    "density_km_sq":21,
+    "growth_rate_%":1.4,
+    "world_%":0.01,
+    "rank":167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1296751,49.8158683 ]
+    },
+    "properties": {
+    "FIELD1":164,
+    "iso_code":"LUX",
+    "country":"Luxembourg",
+    "2021_population":640202,
+    "2020_population":625978,
+    "area_km_sq":2586,
+    "density_km_sq":245,
+    "growth_rate_%":1.41,
+    "world_%":0.01,
+    "rank":168
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5180992,42.9868853 ]
+    },
+    "properties": {
+    "FIELD1":165,
+    "iso_code":"MNE",
+    "country":"Montenegro",
+    "2021_population":628053,
+    "2020_population":628066,
+    "area_km_sq":13812,
+    "density_km_sq":45,
+    "growth_rate_%":0,
+    "world_%":0.01,
+    "rank":169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -13.892143025000001,24.16819605 ]
+    },
+    "properties": {
+    "FIELD1":166,
+    "iso_code":"ESH",
+    "country":"Western Sahara",
+    "2021_population":620280,
+    "2020_population":597339,
+    "area_km_sq":266000,
+    "density_km_sq":2,
+    "growth_rate_%":2.43,
+    "world_%":0.01,
+    "rank":170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.0771187,4.1413025 ]
+    },
+    "properties": {
+    "FIELD1":167,
+    "iso_code":"SUR",
+    "country":"Suriname",
+    "2021_population":594817,
+    "2020_population":586632,
+    "area_km_sq":163820,
+    "density_km_sq":4,
+    "growth_rate_%":0.88,
+    "world_%":0.01,
+    "rank":171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -24.0083947,16.0000552 ]
+    },
+    "properties": {
+    "FIELD1":168,
+    "iso_code":"CPV",
+    "country":"Cape Verde",
+    "2021_population":565346,
+    "2020_population":555987,
+    "area_km_sq":4033,
+    "density_km_sq":139,
+    "growth_rate_%":1.06,
+    "world_%":0.01,
+    "rank":172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.2244152,3.7203503 ]
+    },
+    "properties": {
+    "FIELD1":169,
+    "iso_code":"MDV",
+    "country":"Maldives",
+    "2021_population":546203,
+    "2020_population":540544,
+    "area_km_sq":300,
+    "density_km_sq":1,
+    "growth_rate_%":0.57,
+    "world_%":0.01,
+    "rank":173
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4476911,35.8885993 ]
+    },
+    "properties": {
+    "FIELD1":170,
+    "iso_code":"MLT",
+    "country":"Malta",
+    "2021_population":443646,
+    "2020_population":441543,
+    "area_km_sq":316,
+    "density_km_sq":1,
+    "growth_rate_%":0.28,
+    "world_%":0.01,
+    "rank":174
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5653908,4.4137155 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "iso_code":"BRN",
+    "country":"Brunei",
+    "2021_population":443903,
+    "2020_population":437479,
+    "area_km_sq":5765,
+    "density_km_sq":77,
+    "growth_rate_%":0.93,
+    "world_%":0.01,
+    "rank":175
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7600927,16.8259793 ]
+    },
+    "properties": {
+    "FIELD1":172,
+    "iso_code":"BLZ",
+    "country":"Belize",
+    "2021_population":409224,
+    "2020_population":397628,
+    "area_km_sq":22966,
+    "density_km_sq":18,
+    "growth_rate_%":1.83,
+    "world_%":0.01,
+    "rank":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.0000547,24.7736546 ]
+    },
+    "properties": {
+    "FIELD1":173,
+    "iso_code":"BHS",
+    "country":"Bahamas",
+    "2021_population":399068,
+    "2020_population":393244,
+    "area_km_sq":13943,
+    "density_km_sq":28,
+    "growth_rate_%":0.93,
+    "world_%":0.01,
+    "rank":178
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.01582685063731,14.6367927 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "iso_code":"MTQ",
+    "country":"Martinique",
+    "2021_population":374314,
+    "2020_population":375265,
+    "area_km_sq":1128,
+    "density_km_sq":332,
+    "growth_rate_%":-0.14,
+    "world_%":0,
+    "rank":179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -18.1059013,64.9841821 ]
+    },
+    "properties": {
+    "FIELD1":175,
+    "iso_code":"ISL",
+    "country":"Iceland",
+    "2021_population":344646,
+    "2020_population":341243,
+    "area_km_sq":103000,
+    "density_km_sq":3,
+    "growth_rate_%":0.62,
+    "world_%":0,
+    "rank":180
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.1069154,-16.5255069 ]
+    },
+    "properties": {
+    "FIELD1":176,
+    "iso_code":"VUT",
+    "country":"Vanuatu",
+    "2021_population":318774,
+    "2020_population":307145,
+    "area_km_sq":12189,
+    "density_km_sq":26,
+    "growth_rate_%":2.38,
+    "world_%":0,
+    "rank":181
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.4880773,-21.3019905 ]
+    },
+    "properties": {
+    "FIELD1":177,
+    "iso_code":"NCL",
+    "country":"New Caledonia",
+    "2021_population":289727,
+    "2020_population":285498,
+    "area_km_sq":18575,
+    "density_km_sq":16,
+    "growth_rate_%":0.95,
+    "world_%":0,
+    "rank":183
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.5250305,13.1500331 ]
+    },
+    "properties": {
+    "FIELD1":178,
+    "iso_code":"BRB",
+    "country":"Barbados",
+    "2021_population":287927,
+    "2020_population":287375,
+    "area_km_sq":430,
+    "density_km_sq":669,
+    "growth_rate_%":0.12,
+    "world_%":0,
+    "rank":184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -144.6434898,-17.0243749 ]
+    },
+    "properties": {
+    "FIELD1":179,
+    "iso_code":"PYF",
+    "country":"French Polynesia",
+    "2021_population":283392,
+    "2020_population":280908,
+    "area_km_sq":4167,
+    "density_km_sq":68,
+    "growth_rate_%":0.58,
+    "world_%":0,
+    "rank":185
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.148490830203045,-12.825543 ]
+    },
+    "properties": {
+    "FIELD1":180,
+    "iso_code":"MYT",
+    "country":"Mayotte",
+    "2021_population":283394,
+    "2020_population":272815,
+    "area_km_sq":374,
+    "density_km_sq":747,
+    "growth_rate_%":2.46,
+    "world_%":0,
+    "rank":186
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.02255,0.9713095 ]
+    },
+    "properties": {
+    "FIELD1":181,
+    "iso_code":"STP",
+    "country":"Sao Tome And Principe",
+    "2021_population":225954,
+    "2020_population":219159,
+    "area_km_sq":964,
+    "density_km_sq":232,
+    "growth_rate_%":1.92,
+    "world_%":0,
+    "rank":187
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -172.12005,-13.7693895 ]
+    },
+    "properties": {
+    "FIELD1":182,
+    "iso_code":"WSM",
+    "country":"Samoa",
+    "2021_population":201011,
+    "2020_population":198414,
+    "area_km_sq":2842,
+    "density_km_sq":70,
+    "growth_rate_%":0.87,
+    "world_%":0,
+    "rank":188
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.975036,13.8250489 ]
+    },
+    "properties": {
+    "FIELD1":183,
+    "iso_code":"LCA",
+    "country":"Saint Lucia",
+    "2021_population":184831,
+    "2020_population":183627,
+    "area_km_sq":616,
+    "density_km_sq":299,
+    "growth_rate_%":0.42,
+    "world_%":0,
+    "rank":189
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75755102972062,13.450125700000001 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "iso_code":"GUM",
+    "country":"Guam",
+    "2021_population":171041,
+    "2020_population":168775,
+    "area_km_sq":549,
+    "density_km_sq":310,
+    "growth_rate_%":0.83,
+    "world_%":0,
+    "rank":190
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.0408499890865,12.21339425 ]
+    },
+    "properties": {
+    "FIELD1":185,
+    "iso_code":"CUW",
+    "country":"Curacao",
+    "2021_population":165229,
+    "2020_population":164093,
+    "area_km_sq":444,
+    "density_km_sq":371,
+    "growth_rate_%":0.43,
+    "world_%":0,
+    "rank":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 173.6641773,0.3448612 ]
+    },
+    "properties": {
+    "FIELD1":186,
+    "iso_code":"KIR",
+    "country":"Kiribati",
+    "2021_population":122470,
+    "2020_population":119449,
+    "area_km_sq":811,
+    "density_km_sq":150,
+    "growth_rate_%":1.63,
+    "world_%":0,
+    "rank":192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.832744331612,8.6062347 ]
+    },
+    "properties": {
+    "FIELD1":187,
+    "iso_code":"FSM",
+    "country":"Micronesia",
+    "2021_population":116901,
+    "2020_population":115023,
+    "area_km_sq":702,
+    "density_km_sq":166,
+    "growth_rate_%":1.07,
+    "world_%":0,
+    "rank":193
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.6904045,12.1360374 ]
+    },
+    "properties": {
+    "FIELD1":188,
+    "iso_code":"GRD",
+    "country":"Grenada",
+    "2021_population":113237,
+    "2020_population":112523,
+    "area_km_sq":344,
+    "density_km_sq":329,
+    "growth_rate_%":0.44,
+    "world_%":0,
+    "rank":194
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.98186415210564,12.51756625 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "iso_code":"ABW",
+    "country":"Aruba",
+    "2021_population":107204,
+    "2020_population":106766,
+    "area_km_sq":180,
+    "density_km_sq":596,
+    "growth_rate_%":0.41,
+    "world_%":0,
+    "rank":196
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -175.202642,-19.9160819 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "iso_code":"TON",
+    "country":"Tonga",
+    "2021_population":107407,
+    "2020_population":105695,
+    "area_km_sq":747,
+    "density_km_sq":143,
+    "growth_rate_%":1.01,
+    "world_%":0,
+    "rank":197
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7080574,17.789187 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "iso_code":"VIR",
+    "country":"United States Virgin Islands",
+    "2021_population":104010,
+    "2020_population":104425,
+    "area_km_sq":347,
+    "density_km_sq":300,
+    "growth_rate_%":-0.19,
+    "world_%":0,
+    "rank":198
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.4540146,-4.6574977 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "iso_code":"SYC",
+    "country":"Seychelles",
+    "2021_population":99124,
+    "2020_population":98347,
+    "area_km_sq":452,
+    "density_km_sq":219,
+    "growth_rate_%":0.57,
+    "world_%":0,
+    "rank":199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.9554608,17.2234721 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "iso_code":"ATG",
+    "country":"Antigua And Barbuda",
+    "2021_population":99162,
+    "2020_population":97929,
+    "area_km_sq":442,
+    "density_km_sq":223,
+    "growth_rate_%":0.82,
+    "world_%":0,
+    "rank":200
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.5732033,42.5407167 ]
+    },
+    "properties": {
+    "FIELD1":194,
+    "iso_code":"AND",
+    "country":"Andorra",
+    "2021_population":77355,
+    "2020_population":77265,
+    "area_km_sq":468,
+    "density_km_sq":165,
+    "growth_rate_%":0.12,
+    "world_%":0,
+    "rank":202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3028026,19.0974031 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "iso_code":"DMA",
+    "country":"Dominica",
+    "2021_population":72167,
+    "2020_population":71986,
+    "area_km_sq":751,
+    "density_km_sq":96,
+    "growth_rate_%":0.25,
+    "world_%":0,
+    "rank":203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9174627243246,19.703182249999998 ]
+    },
+    "properties": {
+    "FIELD1":196,
+    "iso_code":"CYM",
+    "country":"Cayman Islands",
+    "2021_population":66497,
+    "2020_population":65722,
+    "area_km_sq":264,
+    "density_km_sq":252,
+    "growth_rate_%":1.18,
+    "world_%":0,
+    "rank":204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.7561647,32.30382 ]
+    },
+    "properties": {
+    "FIELD1":197,
+    "iso_code":"BMU",
+    "country":"Bermuda",
+    "2021_population":62090,
+    "2020_population":62278,
+    "area_km_sq":54,
+    "density_km_sq":1,
+    "growth_rate_%":-0.3,
+    "world_%":0,
+    "rank":205
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.0002575,8.9995549 ]
+    },
+    "properties": {
+    "FIELD1":198,
+    "iso_code":"MHL",
+    "country":"Marshall Islands",
+    "2021_population":59610,
+    "2020_population":59190,
+    "area_km_sq":181,
+    "density_km_sq":329,
+    "growth_rate_%":0.71,
+    "world_%":0,
+    "rank":206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7379338,15.1753648 ]
+    },
+    "properties": {
+    "FIELD1":199,
+    "iso_code":"MNP",
+    "country":"Northern Mariana Islands",
+    "2021_population":57917,
+    "2020_population":57559,
+    "area_km_sq":464,
+    "density_km_sq":125,
+    "growth_rate_%":0.62,
+    "world_%":0,
+    "rank":207
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.8125967,77.6192349 ]
+    },
+    "properties": {
+    "FIELD1":200,
+    "iso_code":"GRL",
+    "country":"Greenland",
+    "2021_population":56877,
+    "2020_population":56770,
+    "area_km_sq":2166086,
+    "density_km_sq":0,
+    "growth_rate_%":0.19,
+    "world_%":0,
+    "rank":208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.7131481,-14.297124 ]
+    },
+    "properties": {
+    "FIELD1":201,
+    "iso_code":"ASM",
+    "country":"American Samoa",
+    "2021_population":55100,
+    "2020_population":55191,
+    "area_km_sq":199,
+    "density_km_sq":277,
+    "growth_rate_%":-0.16,
+    "world_%":0,
+    "rank":209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.6725973,17.250512 ]
+    },
+    "properties": {
+    "FIELD1":202,
+    "iso_code":"KNA",
+    "country":"Saint Kitts And Nevis",
+    "2021_population":53544,
+    "2020_population":53199,
+    "area_km_sq":261,
+    "density_km_sq":205,
+    "growth_rate_%":0.65,
+    "world_%":0,
+    "rank":210
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.0322972,62.0448724 ]
+    },
+    "properties": {
+    "FIELD1":203,
+    "iso_code":"FRO",
+    "country":"Faroe Islands",
+    "2021_population":49049,
+    "2020_population":48863,
+    "area_km_sq":1393,
+    "density_km_sq":35,
+    "growth_rate_%":0.38,
+    "world_%":0,
+    "rank":211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0549948,18.0423736 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "iso_code":"MAF",
+    "country":"Sint Maarten",
+    "2021_population":43412,
+    "2020_population":42876,
+    "area_km_sq":34,
+    "density_km_sq":1,
+    "growth_rate_%":1.25,
+    "world_%":0,
+    "rank":212
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.4276832,43.7323492 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "iso_code":"MCO",
+    "country":"Monaco",
+    "2021_population":39511,
+    "2020_population":39242,
+    "area_km_sq":2,
+    "density_km_sq":19,
+    "growth_rate_%":0.69,
+    "world_%":0,
+    "rank":213
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0467131,18.0814066 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "iso_code":"MAF",
+    "country":"Saint Martin",
+    "2021_population":39234,
+    "2020_population":38666,
+    "area_km_sq":53,
+    "density_km_sq":740,
+    "growth_rate_%":1.47,
+    "world_%":0,
+    "rank":214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5527809,21.721746 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "iso_code":"TCA",
+    "country":"Turks And Caicos Islands",
+    "2021_population":39231,
+    "2020_population":38717,
+    "area_km_sq":948,
+    "density_km_sq":41,
+    "growth_rate_%":1.33,
+    "world_%":0,
+    "rank":215
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.5531527,47.1416307 ]
+    },
+    "properties": {
+    "FIELD1":208,
+    "iso_code":"LIE",
+    "country":"Liechtenstein",
+    "2021_population":38250,
+    "2020_population":38128,
+    "area_km_sq":160,
+    "density_km_sq":239,
+    "growth_rate_%":0.32,
+    "world_%":0,
+    "rank":216
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.458306,43.9458623 ]
+    },
+    "properties": {
+    "FIELD1":209,
+    "iso_code":"SMR",
+    "country":"San Marino",
+    "2021_population":34017,
+    "2020_population":33931,
+    "area_km_sq":61,
+    "density_km_sq":558,
+    "growth_rate_%":0.25,
+    "world_%":0,
+    "rank":217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3474761,36.1285933 ]
+    },
+    "properties": {
+    "FIELD1":210,
+    "iso_code":"GIB",
+    "country":"Gibraltar",
+    "2021_population":33698,
+    "2020_population":33691,
+    "area_km_sq":6,
+    "density_km_sq":5,
+    "growth_rate_%":0.02,
+    "world_%":0,
+    "rank":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 132.9102573,5.3783537 ]
+    },
+    "properties": {
+    "FIELD1":211,
+    "iso_code":"PLW",
+    "country":"Palau",
+    "2021_population":18169,
+    "2020_population":18094,
+    "area_km_sq":459,
+    "density_km_sq":40,
+    "growth_rate_%":0.41,
+    "world_%":0,
+    "rank":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.78587140620786,-19.99697155 ]
+    },
+    "properties": {
+    "FIELD1":212,
+    "iso_code":"COK",
+    "country":"Cook Islands",
+    "2021_population":17565,
+    "2020_population":17564,
+    "area_km_sq":236,
+    "density_km_sq":74,
+    "growth_rate_%":0.01,
+    "world_%":0,
+    "rank":221
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.0750234,18.1954947 ]
+    },
+    "properties": {
+    "FIELD1":213,
+    "iso_code":"AIA",
+    "country":"Anguilla",
+    "2021_population":15117,
+    "2020_population":15003,
+    "area_km_sq":91,
+    "density_km_sq":166,
+    "growth_rate_%":0.76,
+    "world_%":0,
+    "rank":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 179.1582918181797,-8.6405212 ]
+    },
+    "properties": {
+    "FIELD1":214,
+    "iso_code":"TUV",
+    "country":"Tuvalu",
+    "2021_population":11931,
+    "2020_population":11792,
+    "area_km_sq":26,
+    "density_km_sq":459,
+    "growth_rate_%":1.18,
+    "world_%":0,
+    "rank":223
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -176.204224,-13.289402 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "iso_code":"WLF",
+    "country":"Wallis And Futuna",
+    "2021_population":11094,
+    "2020_population":11239,
+    "area_km_sq":142,
+    "density_km_sq":78,
+    "growth_rate_%":-1.29,
+    "world_%":0,
+    "rank":224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 166.9324426,-0.5252306 ]
+    },
+    "properties": {
+    "FIELD1":216,
+    "iso_code":"NRU",
+    "country":"Nauru",
+    "2021_population":10876,
+    "2020_population":10824,
+    "area_km_sq":21,
+    "density_km_sq":518,
+    "growth_rate_%":0.48,
+    "world_%":0,
+    "rank":225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.81152921501989,17.9036287 ]
+    },
+    "properties": {
+    "FIELD1":217,
+    "iso_code":"BL",
+    "country":"Saint Barthelemy",
+    "2021_population":9907,
+    "2020_population":9877,
+    "area_km_sq":21,
+    "density_km_sq":472,
+    "growth_rate_%":0.3,
+    "world_%":0,
+    "rank":226
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.195158907484085,46.783246899999995 ]
+    },
+    "properties": {
+    "FIELD1":218,
+    "iso_code":"SPM",
+    "country":"Saint Pierre And Miquelon",
+    "2021_population":5766,
+    "2020_population":5794,
+    "area_km_sq":242,
+    "density_km_sq":24,
+    "growth_rate_%":-0.48,
+    "world_%":0,
+    "rank":227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.1916844,16.7417041 ]
+    },
+    "properties": {
+    "FIELD1":219,
+    "iso_code":"MSR",
+    "country":"Montserrat",
+    "2021_population":4977,
+    "2020_population":4992,
+    "area_km_sq":102,
+    "density_km_sq":49,
+    "growth_rate_%":-0.3,
+    "world_%":0,
+    "rank":228
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.5383657,-51.9492937 ]
+    },
+    "properties": {
+    "FIELD1":220,
+    "iso_code":"FLK",
+    "country":"Falkland Islands",
+    "2021_population":3533,
+    "2020_population":3480,
+    "area_km_sq":12173,
+    "density_km_sq":0,
+    "growth_rate_%":1.52,
+    "world_%":0,
+    "rank":229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -169.861341,-19.0536414 ]
+    },
+    "properties": {
+    "FIELD1":221,
+    "iso_code":"NIU",
+    "country":"Niue",
+    "2021_population":1619,
+    "2020_population":1626,
+    "area_km_sq":260,
+    "density_km_sq":6,
+    "growth_rate_%":-0.43,
+    "world_%":0,
+    "rank":230
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.819687,-9.1676396 ]
+    },
+    "properties": {
+    "FIELD1":222,
+    "iso_code":"TKL",
+    "country":"Tokelau",
+    "2021_population":1373,
+    "2020_population":1357,
+    "area_km_sq":12,
+    "density_km_sq":114,
+    "growth_rate_%":1.18,
+    "world_%":0,
+    "rank":231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4528527,41.903411 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "iso_code":"VAT",
+    "country":"Vatican City",
+    "2021_population":800,
+    "2020_population":801,
+    "area_km_sq":1,
+    "density_km_sq":800,
+    "growth_rate_%":-0.12,
+    "world_%":0,
+    "rank":232
+    }
+  }
+]
+}
